@@ -375,7 +375,7 @@ const resetFormData = () => {
         </div>
       </div>
       <div className="w-full bg-black/5 text-center">
-  <p className="p-3" style={{color:'rgb(125 211 252 / 21%)' ,textAlign:'right', fontSize:'0.7rem'}}>API INTEGRATION HELPER - © abhishekGunjan</p>
+  <p className="p-3" style={{color:'rgb(125 211 252 / 21%)' ,textAlign:'right', fontSize:'0.7rem'}}>{'API INTEGRATION HELPER - © abhishekGunjan :)'}</p>
   </div>
     </form>
  

@@ -3,7 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://abhiGunjan.github.io",
+  "homepage": "https://abhiGunjan.github.io/abhiGunjan.github.io",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
