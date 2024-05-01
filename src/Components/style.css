@@ -1,0 +1,25 @@
+.payloadTable table{
+    width: 100%;
+    text-align: left;
+    th{
+        border-top: 1px solid #dadada;
+    }
+    td:first-child{
+        border-left: 1px solid #dadada;
+        color: white;
+
+    }
+   th{
+        border-bottom: 1px solid #dadada;
+        border-right: 1px solid #dadada;
+        color:'gray 200';
+        padding: 0px 0px 0px 10px;
+    }
+    
+    td{
+        border-bottom: 1px solid #dadada;
+        border-right: 1px solid #dadada;
+        color: white;
+        padding: 0px 0px 0px 10px;
+    }
+}
