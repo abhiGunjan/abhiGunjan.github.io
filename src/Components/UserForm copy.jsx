@@ -148,12 +148,11 @@ const resetFormData = () => {
           </label>
               </td>
               <td>
-
               <div className="flex justify-left">
 
 
-  <div className="relative w-full max-w-[24rem] flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
-  <nav className="lg:flex md:flex min-w-[100px] lg:flex-row gap-1  font-sans text-base font-normal text-blue-gray-700">
+  <div className="relative flex w-full max-w-[24rem] flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
+  <nav className="flex min-w-[240px] flex-row gap-1  font-sans text-base font-normal text-blue-gray-700">
     
   <div role="button"
       className="flex items-center w-full p-0 leading-tight transition-all rounded-lg outline-none text-start hover:bg-blue-gray-50 hover:bg-opacity-80 hover:text-blue-gray-900 focus:bg-blue-gray-50 focus:bg-opacity-80 focus:text-blue-gray-900 active:bg-blue-gray-50 active:bg-opacity-80 active:text-blue-gray-900">
@@ -376,7 +375,7 @@ const resetFormData = () => {
         </div>
       </div>
       <div className="w-full bg-black/5 text-center">
-  <p className="p-3" style={{color:'rgb(125 211 252 / 21%)' ,textAlign:'right', fontSize:'0.7rem'}}>{'API INTEGRATION HELPER - © abhishekGunjan'}</p>
+  <p className="p-3" style={{color:'rgb(125 211 252 / 21%)' ,textAlign:'right', fontSize:'0.7rem'}}>{'API INTEGRATION HELPER - © abhishekGunjan :)'}</p>
   </div>
     </form>
  

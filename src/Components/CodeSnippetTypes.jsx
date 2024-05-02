@@ -16,7 +16,7 @@ const CodeSnippetTypes = ({reduxTypes}) => {
   };
 
   return (
-    <div className="md:flex border m-10 rounded-lg shadow-xl">
+    <div className="md:flex border m-5 rounded-lg shadow-xl">
     <div className="p-1 w-full">
 
     <div className="max-w mx-auto bg-gray-900 rounded-lg overflow-hidden">
